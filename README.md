@@ -22,6 +22,11 @@ Prerequisites:
 6. Docker Desktop (For Bundling Lambda Function with Libraries)
 7. Postman (For Test and Manage ApiGateway Apis).
 
+The folder structure will be as follows,
+
+![image](https://github.com/user-attachments/assets/1f7868ad-4c37-4d95-862e-b7e344edd84a)
+
+
 Just upload the files of lib and src to your cdk environment workspace and then follow the below steps,
 To run this project you have to install all the prerequisites mentioned above and in vscode the folder structure will be created. The development will be done in src and lib folders. Simply upload the files from the src and lib folder to your workspace in vscode and type these commands:
 cdk synth (Keep the docker running)
