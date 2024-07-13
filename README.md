@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3cfe3563-d136-4f65-bcc7-3a6c41826c86)# E-commerce-Evolution-Unleashing-the-Potential-of-Serverless-Microservices
+# E-commerce-Evolution-Unleashing-the-Potential-of-Serverless-Microservices
 
 E-commerce websites have become integral to modern retail, with their architecture crucial for ensuring scalability, security, and seamless user experiences. To esure that we have developed an serverless microservices architecture in aws. Traditional monolithic architectures struggle with scaling, fault tolerance, and independent service deployments. We have created 3 different microservices product, basket and ordering microservices. The communication between users and microservices are synchronous communication. The communication between basket and ordering microservice is asynchronous communication.
 
