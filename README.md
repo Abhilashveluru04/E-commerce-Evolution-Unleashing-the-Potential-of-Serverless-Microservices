@@ -4,7 +4,7 @@ E-commerce websites have become integral to modern retail, with their architectu
 
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/69dd54fa-1602-46bd-9b65-715155a0a5d1">
 
-If you this why serverless what is the use of it then what serverless helps you to focus on Build and run applications without thinking about
+If you think why serverless what is the use of it then what serverless helps you to focus on Build and run applications without thinking about
 servers - running code, managing data, and integrating applications, all without managing servers. The key benifit of this is Automatic scaling, built-in high availability, and a pay-for-use billing model to increase agility and optimize costs.
 
 The project aims to address the challenge of building a scalable, resilient, and event driven e-commerce application architecture. The project is developed in AWS CDK. The created communications between the microservices and the users we used lambda functions and api gateway. The api calls has been tested using the postman application.
