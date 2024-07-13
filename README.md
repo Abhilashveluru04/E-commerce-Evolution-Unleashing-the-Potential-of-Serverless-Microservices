@@ -21,19 +21,25 @@ Prerequisites:
 5. Visual Studio Code
 6. Docker Desktop (For Bundling Lambda Function with Libraries)
 7. Postman (For Test and Manage ApiGateway Apis).
+reference installation links are given below.
 
 The folder structure will be as follows,
 
 ![image](https://github.com/user-attachments/assets/1f7868ad-4c37-4d95-862e-b7e344edd84a)
 
 
-Just upload the files of lib and src to your cdk environment workspace and then follow the below steps,
+Just upload the files of lib and src to your cdk environment workspace by creating new folder and then follow the below steps,
 To run this project you have to install all the prerequisites mentioned above and in vscode the folder structure will be created. The development will be done in src and lib folders. Simply upload the files from the src and lib folder to your workspace in vscode and type these commands:
 cdk synth (Keep the docker running)
 cdk deploy
 
 A stack will be created in aws with the architecture deployed in aws. To avoid billing I recommend you to use the command cdk destroy to
 destroy all the created services in aws after using them.
+
+
+To install aws cdk kit(https://youtu.be/v1U_6Dq6wog?si=k_ePT7juXY9qpQuj)
+To install and configure aws cli(https://youtu.be/S7K5vwVobVc?si=oqKBQ5TX35DN1Ly3)
+AWS CLI & SDK Setup(https://youtu.be/gswVHTrRX8I?si=_htexF4I0CYsFVcq).
 
 Thank you.
 Any queries contact abhilashveluru4@gmail.com
